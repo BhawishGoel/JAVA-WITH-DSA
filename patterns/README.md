@@ -4,7 +4,7 @@
 File: patterns/pattern1.php
 
 Output:
-`* * * * *
+```* * * * *
 
 
 ## Pattern 2
