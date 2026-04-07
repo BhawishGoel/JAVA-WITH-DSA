@@ -11,3 +11,8 @@ Output:
 File: patterns/pattern_2.php
 
 Output:
+```* * * * * 
+   * * * * * 
+   * * * * * 
+   * * * * * 
+   * * * * * ```
