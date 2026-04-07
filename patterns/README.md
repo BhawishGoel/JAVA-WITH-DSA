@@ -9,7 +9,7 @@ Output:
 ```
 
 ## Pattern 2
-File: `patterns/pattern_2.php`
+File: `patterns/pattern2.php`
 
 Output:
 ```
@@ -17,4 +17,17 @@ Output:
 * * * * *
 * * * * *
 * * * * *
+```
+
+
+## Pattern 3
+File: `patterns/pattern3.php`
+
+Output:
+```
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
 ```
