@@ -31,3 +31,42 @@ Output:
 * * * * 
 * * * * * 
 ```
+
+## Pattern 4
+File: `patterns/pattern4.php`
+
+Output:
+```
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+```
+
+## Pattern 5
+File: `patterns/pattern5.php`
+
+Output:
+```
+        * 
+      * * 
+    * * * 
+  * * * * 
+* * * * * 
+```
+
+
+
+
+## Pattern 6
+File: `patterns/pattern6.php`
+
+Output:
+```
+* * * * * 
+  * * * * 
+    * * * 
+      * * 
+        * 
+```
