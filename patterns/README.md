@@ -1,7 +1,7 @@
 # PHP Pattern Programs
 
 ## Pattern 1
-File: patterns/pattern_1.php
+File: patterns/pattern1.php
 
 Output:
 ```* * * * *
