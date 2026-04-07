@@ -4,4 +4,4 @@
 File: patterns/pattern_1.php
 
 Output:
-* * * * *
+`* * * * *`
