@@ -70,3 +70,76 @@ Output:
       * * 
         * 
 ```
+
+## Pattern 7
+File: `patterns/pattern7.php`
+
+Output:
+```
+* * * * * 
+    * * * * 
+        * * * 
+            * * 
+                * 
+```
+## Pattern 8
+File: `patterns/pattern8.php`
+
+Output:
+```
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * * 
+* * * * * * * * * 
+```
+## Pattern 9
+File: `patterns/pattern9.php`
+
+Output:
+```
+taking input from user for eg: n=6
+          * 
+        * * * 
+      * * * * * 
+    * * * * * * * 
+  * * * * * * * * * 
+* * * * * * * * * * * 
+```
+## Pattern 10
+File: `patterns/pattern10.php`
+
+Output:
+```
+5
+        * 
+      * ! * 
+    * ! * ! * 
+  * ! * ! * ! * 
+* ! * ! * ! * ! * 
+```
+## Pattern 11
+File: `patterns/pattern10.php`
+
+Output:
+```
+5
+*               * 
+* *           * * 
+* * *       * * * 
+* * * *   * * * * 
+* * * * * * * * * 
+```
+
+## Pattern 12
+File: `patterns/pattern10.php`
+
+Output:
+```
+5
+* * * * * * * * * *
+* * * *   * * * * 
+* * *       * * * 
+* *           * * 
+*               * 
+```
