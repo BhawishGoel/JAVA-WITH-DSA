@@ -119,7 +119,7 @@ Output:
 * ! * ! * ! * ! * 
 ```
 ## Pattern 11
-File: `patterns/pattern10.php`
+File: `patterns/pattern11.php`
 
 Output:
 ```
@@ -132,14 +132,54 @@ Output:
 ```
 
 ## Pattern 12
-File: `patterns/pattern10.php`
+File: `patterns/pattern12.php`
 
 Output:
 ```
 5
-* * * * * * * * * *
+* * * * * * * * * 
 * * * *   * * * * 
 * * *       * * * 
 * *           * * 
 *               * 
+```
+
+
+## Pattern 13
+File: `patterns/pattern13.php`
+
+Output:
+```
+5
+* * * * * * * * * 
+  * * * * * * *   
+    * * * * *     
+      * * *       
+        *   
+```
+
+## Pattern 14
+File: `patterns/pattern14.php`
+
+Output:
+```
+5
+        * 
+      *   * 
+    *   *   * 
+  *   *   *   * 
+*   *   *   *   * 
+```
+
+## Pattern 15
+File: `patterns/pattern15.php`
+
+Output:
+```
+5
+        1 
+      1 1 1 
+    1 1 1 1 1 
+  1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 
 ```
