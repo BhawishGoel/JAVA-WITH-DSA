@@ -197,3 +197,55 @@ Output:
    4 4 4 4 4 4 4
  5 5 5 5 5 5 5 5 5
 ```
+## Pattern 17
+File: `patterns/pattern17.php`
+
+Output:
+```
+5
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+```
+## Pattern 18
+File: `patterns/pattern18.php`
+
+Output:
+```
+5
+         1
+       2 2 2
+     3 3 3 3 3
+   4 4 4 4 4 4 4
+ 5 5 5 5 5 5 5 5 5
+```
+## Pattern 19
+File: `patterns/pattern19.php`
+
+Output:
+```
+5
+         1
+       2 2 2
+     3 3 3 3 3
+   4 4 4 4 4 4 4
+ 5 5 5 5 5 5 5 5 5
+```
+## Pattern 20
+File: `patterns/pattern20.php`
+
+Output:
+```
+5
+         1
+       2 2 2
+     3 3 3 3 3
+   4 4 4 4 4 4 4
+ 5 5 5 5 5 5 5 5 5
+```
