@@ -6,24 +6,32 @@ public class pattern18 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int row = 1 ;
+        int space  = n - 1;
         int star = 1;
-        while ( row <= 2 * n -1){
-            // star prep 
+        int row = 1;
+        while(row <= 2 * n - 1){
+            // space prep
             int i = 1;
-            while(i <= star){
-                System.out.print("* ");
+            while(i <= space){
+                System.err.print("  ");
                 i++;
             }
-            if (row < n ){
-                star++;
+            // star prep
+            int j = 1 ;
+            while(j <= star){
+                System.out.print("* ");
+                j++;
             }
-            else{
+            // mirror concept 
+            if(row < n){
+                space--;
+                star++;
+            }else{
+                space++;
                 star--;
             }
-            // next row prep
-            System.out.println();
             row++;
+            System.out.println();
         }
     }
 }
