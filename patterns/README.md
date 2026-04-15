@@ -245,8 +245,44 @@ Output:
     * * * * 
 * * * * * 
 ```
+
+
 ## Pattern 20
 File: `patterns/pattern20.php`
+
+Output:
+```
+5
+        * * * * * 
+      * * * * 
+    * * * 
+  * * 
+* 
+  * * 
+    * * * 
+      * * * * 
+        * * * * * 
+```
+
+
+
+## Pattern 21
+File: `patterns/pattern21.php`
+
+Output:
+```
+7
+* * *   * * * 
+* *       * * 
+*           * 
+              
+                  
+                      
+```
+
+
+## Pattern 22
+File: `patterns/pattern22.php`
 
 Output:
 ```
