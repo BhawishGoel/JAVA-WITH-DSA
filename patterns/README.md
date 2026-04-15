@@ -235,11 +235,15 @@ File: `patterns/pattern19.php`
 Output:
 ```
 5
-         1
-       2 2 2
-     3 3 3 3 3
-   4 4 4 4 4 4 4
- 5 5 5 5 5 5 5 5 5
+* * * * * 
+    * * * * 
+        * * * 
+            * * 
+                * 
+            * * 
+        * * * 
+    * * * * 
+* * * * * 
 ```
 ## Pattern 20
 File: `patterns/pattern20.php`
