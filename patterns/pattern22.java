@@ -29,7 +29,7 @@ public class pattern22 {
                 k++;
             }
             // mirror concept 
-            if( row < n/2 + 1){
+            if( row <= n/2 ){
                 star--;
                 space += 2;
             }else{
