@@ -295,3 +295,20 @@ Output:
 * *       * * 
 * * *   * * * 
 ```
+
+## Pattern 23
+File: `patterns/pattern23.php`
+
+Output:
+```
+7
+      * 
+    * * * 
+  * * * * * 
+* * * * * * * 
+  * * * * * 
+    * * * 
+      * 
+```
+
+
