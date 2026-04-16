@@ -10,35 +10,38 @@ public class pattern24 {
         int star = n/2 + 1;
         int space = -1;
         while(row <= n){
-            // star prep
-            int  i = 1;
-            while(i <= star){
+            //star prep
+            int i = 1;
+            while(i<=star){
                 System.out.print("* ");
                 i++;
             }
-            //space prep
+            // space prep
             int j = 1;
-            while(j <= space){
+            while(j<= space){
                 System.out.print("  ");
                 j++;
             }
-            //star prep
+            // star prep
             int k = 1;
-            while(k <= star){
-                System.out.println("* ");
+            if(row == 1 || row == n ){
+                k = 2;
+            }
+            while (k<= star) {
+                System.out.print("* ");
                 k++;
             }
-            // if(row <= n/2){
-            //     star--;
-            //     space +=2;
-            // }else{
-            //     star++;
-            //     space -= 2;
-            // }
-                            star--;
-            space +=2;
+            //miror concept
+            if(row <= n/2){
+                star--;
+                space += 2;
+            }else{
+                star++;
+                space -= 2;
+            }
             row++;
             System.out.println();
         }
+
     }
 }

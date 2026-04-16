@@ -312,3 +312,54 @@ Output:
 ```
 
 
+
+## Pattern 24
+File: `patterns/pattern24.php`
+
+Output:
+```
+7
+* * * * * * * 
+* * *   * * * 
+* *       * * 
+*           * 
+* *       * * 
+* * *   * * * 
+* * * * * * * 
+```
+
+
+
+## Pattern 25
+File: `patterns/pattern25.php`
+
+Output:
+```
+7
+      * 
+    * * * 
+  * * * * * 
+* * * * * * * 
+  * * * * * 
+    * * * 
+      * 
+```
+
+
+
+## Pattern 26
+File: `patterns/pattern26.php`
+
+Output:
+```
+7
+      * 
+    * * * 
+  * * * * * 
+* * * * * * * 
+  * * * * * 
+    * * * 
+      * 
+```
+
+
