@@ -362,3 +362,60 @@ pattern with tab seperated (\t) - for which it will not interrupt the shape of p
 ```
 
 
+
+
+
+## Pattern 27
+File: `patterns/pattern27.php`
+
+Output:
+```
+7
+      * 
+    *   * 
+  *       * 
+*           * 
+  *       * 
+    *   * 
+      * 
+```
+
+
+
+
+
+## Pattern 28
+File: `patterns/pattern28.php`
+
+Output:
+```
+7
+      * 
+    *   * 
+  *       * 
+*           * 
+  *       * 
+    *   * 
+      * 
+```
+
+
+
+
+
+## Pattern 29
+File: `patterns/pattern29.php`
+
+Output:
+```
+7
+      * 
+    *   * 
+  *       * 
+*           * 
+  *       * 
+    *   * 
+      * 
+```
+
+
