@@ -1,4 +1,4 @@
-# PHP Pattern Programs
+# JAVA Pattern Programs
 
 ## Pattern 1
 File: `patterns/pattern1.php`
