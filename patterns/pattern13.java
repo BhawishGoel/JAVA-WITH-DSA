@@ -35,6 +35,5 @@ public class pattern13 {
             star -= 2 ;
             space++;
         }
-        sc.close();
     }
 }
