@@ -353,6 +353,7 @@ File: `patterns/pattern26.php`
 Output:
 ```
 pattern with tab seperated (\t) - for which it will not interrupt the shape of pattern
+tab seperated -> 4 spaces apply here 
 5
                                 1
                         2       3       4
@@ -404,14 +405,12 @@ File: `patterns/pattern29.php`
 
 Output:
 ```
-7
-      * 
-    *   * 
-  *       * 
-*           * 
-  *       * 
-    *   * 
-      * 
+3
+    1 
+  2 3 2 
+3 4 5 4 3 
+  2 3 2 
+    1 
 ```
 
 
