@@ -405,6 +405,7 @@ File: `patterns/pattern29.php`
 
 Output:
 ```
+Pattern rhombus
 3
     1 
   2 3 2 
