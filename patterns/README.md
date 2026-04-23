@@ -1,7 +1,7 @@
 # JAVA Pattern Programs
 
 ## Pattern 1
-File: `patterns/pattern1.php`
+File: `patterns/pattern1.java`
 
 Output:
 ```
@@ -9,7 +9,7 @@ Output:
 ```
 
 ## Pattern 2
-File: `patterns/pattern2.php`
+File: `patterns/pattern2.java`
 
 Output:
 ```
@@ -21,7 +21,7 @@ Output:
 
 
 ## Pattern 3
-File: `patterns/pattern3.php`
+File: `patterns/pattern3.java`
 
 Output:
 ```
@@ -33,7 +33,7 @@ Output:
 ```
 
 ## Pattern 4
-File: `patterns/pattern4.php`
+File: `patterns/pattern4.java`
 
 Output:
 ```
@@ -45,7 +45,7 @@ Output:
 ```
 
 ## Pattern 5
-File: `patterns/pattern5.php`
+File: `patterns/pattern5.java`
 
 Output:
 ```
@@ -60,7 +60,7 @@ Output:
 
 
 ## Pattern 6
-File: `patterns/pattern6.php`
+File: `patterns/pattern6.java`
 
 Output:
 ```
@@ -72,7 +72,7 @@ Output:
 ```
 
 ## Pattern 7
-File: `patterns/pattern7.php`
+File: `patterns/pattern7.java`
 
 Output:
 ```
@@ -83,7 +83,7 @@ Output:
                 * 
 ```
 ## Pattern 8
-File: `patterns/pattern8.php`
+File: `patterns/pattern8.java`
 
 Output:
 ```
@@ -94,7 +94,7 @@ Output:
 * * * * * * * * * 
 ```
 ## Pattern 9
-File: `patterns/pattern9.php`
+File: `patterns/pattern9.java`
 
 Output:
 ```
@@ -107,7 +107,7 @@ taking input from user for eg: n=6
 * * * * * * * * * * * 
 ```
 ## Pattern 10
-File: `patterns/pattern10.php`
+File: `patterns/pattern10.java`
 
 Output:
 ```
@@ -119,7 +119,7 @@ Output:
 * ! * ! * ! * ! * 
 ```
 ## Pattern 11
-File: `patterns/pattern11.php`
+File: `patterns/pattern11.java`
 
 Output:
 ```
@@ -132,7 +132,7 @@ Output:
 ```
 
 ## Pattern 12
-File: `patterns/pattern12.php`
+File: `patterns/pattern12.java`
 
 Output:
 ```
@@ -146,7 +146,7 @@ Output:
 
 
 ## Pattern 13
-File: `patterns/pattern13.php`
+File: `patterns/pattern13.java`
 
 Output:
 ```
@@ -159,7 +159,7 @@ Output:
 ```
 
 ## Pattern 14
-File: `patterns/pattern14.php`
+File: `patterns/pattern14.java`
 
 Output:
 ```
@@ -172,7 +172,7 @@ Output:
 ```
 
 ## Pattern 15
-File: `patterns/pattern15.php`
+File: `patterns/pattern15.java`
 
 Output:
 ```
@@ -186,7 +186,7 @@ Output:
 
 
 ## Pattern 16
-File: `patterns/pattern16.php`
+File: `patterns/pattern16.java`
 
 Output:
 ```
@@ -198,7 +198,7 @@ Output:
  5 5 5 5 5 5 5 5 5
 ```
 ## Pattern 17
-File: `patterns/pattern17.php`
+File: `patterns/pattern17.java`
 
 Output:
 ```
@@ -214,7 +214,7 @@ Output:
 * 
 ```
 ## Pattern 18
-File: `patterns/pattern18.php`
+File: `patterns/pattern18.java`
 
 Output:
 ```
@@ -230,7 +230,7 @@ Output:
         * 
 ```
 ## Pattern 19
-File: `patterns/pattern19.php`
+File: `patterns/pattern19.java`
 
 Output:
 ```
@@ -248,7 +248,7 @@ Output:
 
 
 ## Pattern 20
-File: `patterns/pattern20.php`
+File: `patterns/pattern20.java`
 
 Output:
 ```
@@ -267,7 +267,7 @@ Output:
 
 
 ## Pattern 21
-File: `patterns/pattern21.php`
+File: `patterns/pattern21.java`
 
 Output:
 ```
@@ -282,7 +282,7 @@ Output:
 
 
 ## Pattern 22
-File: `patterns/pattern22.php`
+File: `patterns/pattern22.java`
 
 Output:
 ```
@@ -297,7 +297,7 @@ Output:
 ```
 
 ## Pattern 23
-File: `patterns/pattern23.php`
+File: `patterns/pattern23.java`
 
 Output:
 ```
@@ -314,7 +314,7 @@ Output:
 
 
 ## Pattern 24
-File: `patterns/pattern24.php`
+File: `patterns/pattern24.java`
 
 Output:
 ```
@@ -331,7 +331,7 @@ Output:
 
 
 ## Pattern 25
-File: `patterns/pattern25.php`
+File: `patterns/pattern25.java`
 
 Output:
 ```
@@ -348,7 +348,7 @@ Output:
 
 
 ## Pattern 26
-File: `patterns/pattern26.php`
+File: `patterns/pattern26.java`
 
 Output:
 ```
@@ -367,7 +367,7 @@ tab seperated -> 4 spaces apply here
 
 
 ## Pattern 27
-File: `patterns/pattern27.php`
+File: `patterns/pattern27.java`
 
 Output:
 ```
@@ -384,7 +384,7 @@ Output:
 
 
 ## Pattern 28
-File: `patterns/pattern28.php`
+File: `patterns/pattern28.java`
 
 Output:
 ```
@@ -400,8 +400,67 @@ Output:
 
 
 
-## Pattern 29
-File: `patterns/pattern29.php`
+## Hollow Rhombus
+File: `patterns/patternHollowRhombus.java`
+
+Output:
+```
+
+5
+        * * * * * 
+      *       * 
+    *       * 
+  *       * 
+* * * * * 
+```
+
+
+
+
+
+
+## Number Ladder
+File: `patterns/patternNumberLadder.java`
+
+Output:
+```
+
+5
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+```
+
+
+
+
+
+
+
+## Pattern Triangle
+File: `patterns/patternTriangle.java`
+
+Output:
+```
+
+5
+        1 
+      2 3 2 
+    3 4 5 4 3 
+  4 5 6 7 6 5 4 
+5 6 7 8 9 8 7 6 5 
+```
+
+
+
+
+
+
+
+##  Pattern With Zeroes
+File: `patterns/patternWithZeroes.java`
 
 Output:
 ```
@@ -413,5 +472,46 @@ Pattern rhombus
   2 3 2 
     1 
 ```
+
+
+
+
+
+
+
+## Pattern 29
+File: `patterns/pattern29.java`
+
+Output:
+```
+Pattern rhombus
+3
+    1 
+  2 3 2 
+3 4 5 4 3 
+  2 3 2 
+    1 
+```
+
+
+
+
+
+
+
+## Pattern 29
+File: `patterns/pattern29.java`
+
+Output:
+```
+Pattern rhombus
+3
+    1 
+  2 3 2 
+3 4 5 4 3 
+  2 3 2 
+    1 
+```
+
 
 
