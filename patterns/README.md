@@ -464,7 +464,7 @@ File: `patterns/patternWithZeroes.java`
 
 Output:
 ```
-Pattern rhombus
+
 3
     1 
   2 3 2 
@@ -484,7 +484,7 @@ File: `patterns/pattern29.java`
 
 Output:
 ```
-Pattern rhombus
+
 3
     1 
   2 3 2 
@@ -504,7 +504,7 @@ File: `patterns/pattern29.java`
 
 Output:
 ```
-Pattern rhombus
+
 3
     1 
   2 3 2 
