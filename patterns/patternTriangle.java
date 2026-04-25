@@ -10,7 +10,7 @@ public class patternTriangle {
         int space = n - 1;
         int star = 1;
         int val = 1;
-        // both vertical and horizontal mirroring is there 
+        // vertical mirroring is there 
 
         while(row <= n ){
             // space prep 

@@ -14,10 +14,14 @@ public class patternWithZeroes {
             // star prep 
             int i = 1;
             while (i <= star) {
+                if(i==1 || i == star){
                 System.out.print(val + " ");
+                }else{
+                    System.out.print("0 ");
+                }
                 i++;
             }
-            // space prep
+            // next row prep
              row ++;
              star++;
              val++;
