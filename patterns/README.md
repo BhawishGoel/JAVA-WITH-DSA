@@ -399,6 +399,25 @@ Output:
 
 
 
+## Pattern 29
+File: `patterns/pattern29.java`
+
+Output:
+```
+
+3
+    1 
+  2 3 2 
+3 4 5 4 3 
+  2 3 2 
+    1 
+```
+
+
+
+
+
+
 
 ## Hollow Rhombus
 File: `patterns/patternHollowRhombus.java`
@@ -465,12 +484,12 @@ File: `patterns/patternWithZeroes.java`
 Output:
 ```
 
-3
-    1 
-  2 3 2 
-3 4 5 4 3 
-  2 3 2 
-    1 
+5
+1 
+2 2 
+3 0 3 
+4 0 0 4 
+5 0 0 0 5 
 ```
 
 
@@ -479,18 +498,20 @@ Output:
 
 
 
-## Pattern 29
-File: `patterns/pattern29.java`
+## Pattern Hollow Diamond
+File: `patterns/patternHollowDiamond.java`
 
 Output:
 ```
 
-3
-    1 
-  2 3 2 
-3 4 5 4 3 
-  2 3 2 
-    1 
+7
+* * * * * * * 
+* * *   * * * 
+* *       * * 
+*           * 
+* *       * * 
+* * *   * * * 
+* * * * * * * 
 ```
 
 
@@ -499,18 +520,145 @@ Output:
 
 
 
-## Pattern 29
-File: `patterns/pattern29.java`
+## Pattern Magic
+File: `patterns/patternMagic.java`
 
 Output:
 ```
 
-3
-    1 
-  2 3 2 
-3 4 5 4 3 
-  2 3 2 
-    1 
+5
+* * * * * * * * * 
+* * * *   * * * * 
+* * *       * * * 
+* *           * * 
+*               * 
+* *           * * 
+* * *       * * * 
+* * * *   * * * * 
+* * * * * * * * * 
+```
+
+
+
+
+
+
+
+
+
+
+## Pattern R4
+File: `patterns/patternR4.java`
+
+Output:
+```
+
+5
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+```
+
+
+
+
+
+
+
+
+
+
+## Pattern Mirror Star
+File: `patterns/patternMirrorstar.java `
+
+Output:
+```
+
+5
+    * 
+  * * * 
+* * * * * 
+  * * * 
+    * 
+```
+
+
+
+
+
+
+
+
+
+
+## Pattern Mountain
+File: `patterns/patternMountain.java`
+
+Output:
+```
+
+5
+1               1 
+1 2           2 1 
+1 2 3       3 2 1 
+1 2 3 4   4 3 2 1 
+1 2 3 4 5 4 3 2 1 
+```
+
+
+
+
+
+
+
+
+
+
+## Pattern Double sided Arrow
+File: `patterns/patternDoubleSidedArrow.java`
+
+Output:
+```
+
+5
+* * * * * * * * * 
+* * * *   * * * * 
+* * *       * * * 
+* *           * * 
+*               * 
+* *           * * 
+* * *       * * * 
+* * * *   * * * * 
+* * * * * * * * * 
+```
+
+
+
+
+
+
+
+
+
+
+## Pattern Fibonacci
+File: `patterns/patternfibonacci.java`
+
+Output:
+```
+
+5
+* * * * * * * * * 
+* * * *   * * * * 
+* * *       * * * 
+* *           * * 
+*               * 
+* *           * * 
+* * *       * * * 
+* * * *   * * * * 
+* * * * * * * * * 
 ```
 
 
