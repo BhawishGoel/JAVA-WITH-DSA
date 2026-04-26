@@ -43,13 +43,44 @@ without series it print
 ```
 
 
-## Check Prime
-File: `forLoopsQuestions/Check_Prime.java`
+## H_C_F NO
+File: `forLoopsQuestions/H_C_F.java`
 
 Output:
 ```
-15
-Not Prime
+12
+```
+
+
+## Reverse Number
+File: `forLoopsQuestions/Reverse_Number.java`
+
+Output:
+```
+6483
+```
+
+
+## Sum of Digit
+File: `forLoopsQuestions/Sum_of_Digit.java`
+
+Output:
+```
+21
+```
+
+
+## Pascal Triangle
+File: `forLoopsQuestions/Pascal_Triangle.java`
+
+Output:
+```
+1 
+1 1 
+1 2 1 
+1 3 3 1 
+1 4 6 4 1 
+1 5 10 10 5 1 
 ```
 
 
