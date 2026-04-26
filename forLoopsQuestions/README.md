@@ -11,8 +11,8 @@ Not Prime
 
 
 
-## Check Prime
-File: `forLoopsQuestions/Check_Prime.java`
+## Break Statement With Prime
+File: `forLoopsQuestions/Break_Statement_With_Prime.java`
 
 Output:
 ```
