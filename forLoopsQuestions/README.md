@@ -21,13 +21,25 @@ Not Prime
 ```
 
 
-## Check Prime
-File: `forLoopsQuestions/Check_Prime.java`
+## fibonacci Numner
+File: `forLoopsQuestions/fibonacci_no.java`
 
 Output:
 ```
-15
-Not Prime
+for printing series --> add syso in loop for n =8 
+0
+1
+1
+2
+3
+5
+8
+13
+21
+
+without series it print
+
+21
 ```
 
 
